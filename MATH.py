@@ -18,3 +18,7 @@ def devide(x,y):
 #Square Implementation
  def square(X):
  return x*x
+ 
+ #Add Implementation
+ def cube(x):
+ pass
